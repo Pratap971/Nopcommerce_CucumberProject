@@ -1,0 +1,119 @@
+2025-09-28 01:07:44,373 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:07:44,448 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:07:45,190 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:07:46,391 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:08:00,856 - Nopcommerce - INFO - ***** Adding New Customer *****
+2025-09-28 01:08:00,856 - Nopcommerce - INFO - ***** Providing Customer details  *****
+2025-09-28 01:08:08,295 - Nopcommerce - INFO - ***** Saving Customer data *****
+2025-09-28 01:08:11,777 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:08:14,371 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:08:14,378 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:08:15,833 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:08:16,952 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:08:26,501 - Nopcommerce - INFO - ***** Searching customer y Email Id *****
+2025-09-28 01:08:31,379 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:08:33,383 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:08:33,383 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:08:34,360 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:08:35,886 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:08:48,588 - Nopcommerce - INFO - ***** Searching customer by Name *****
+2025-09-28 01:08:54,150 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:08:56,392 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:08:56,394 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:08:57,049 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:08:58,291 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:09:02,753 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:09:02,786 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:09:05,763 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:09:05,782 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:09:07,025 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:09:08,376 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:09:13,938 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:09:13,976 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:09:17,201 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:09:17,212 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:09:24,717 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:09:25,973 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:09:27,034 - Nopcommerce - INFO - ***** Login Passed *****
+2025-09-28 01:15:05,621 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:15:05,696 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:15:06,329 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:15:07,565 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:15:20,924 - Nopcommerce - INFO - ***** Adding New Customer *****
+2025-09-28 01:15:20,924 - Nopcommerce - INFO - ***** Providing Customer details  *****
+2025-09-28 01:15:28,161 - Nopcommerce - INFO - ***** Saving Customer data *****
+2025-09-28 01:15:31,722 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:15:33,642 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:15:33,652 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:15:34,376 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:15:35,669 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:15:38,663 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:15:38,682 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:15:43,909 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:15:43,939 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:17:41,916 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:17:42,015 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:17:42,743 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:17:44,003 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:17:54,378 - Nopcommerce - INFO - ***** Searching customer y Email Id *****
+2025-09-28 01:17:59,152 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:18:01,217 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:18:01,219 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:18:01,901 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:18:03,056 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:18:12,926 - Nopcommerce - INFO - ***** Searching customer by Name *****
+2025-09-28 01:18:17,970 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:18:20,409 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:18:20,414 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:18:21,030 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:18:22,256 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:18:26,451 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:18:26,484 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:18:31,621 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:18:31,682 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:18:33,599 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:18:33,605 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:18:34,283 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:18:35,530 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:18:36,786 - Nopcommerce - INFO - ***** Login Passed *****
+2025-09-28 01:20:20,903 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:20:20,974 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:20:21,632 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:20:22,811 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:20:36,724 - Nopcommerce - INFO - ***** Adding New Customer *****
+2025-09-28 01:20:36,724 - Nopcommerce - INFO - ***** Providing Customer details  *****
+2025-09-28 01:20:43,959 - Nopcommerce - INFO - ***** Saving Customer data *****
+2025-09-28 01:20:47,441 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:20:49,584 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:20:49,594 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:20:50,982 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:20:52,081 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:21:04,213 - Nopcommerce - INFO - ***** Searching customer y Email Id *****
+2025-09-28 01:21:09,536 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:21:11,555 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:21:11,561 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:21:12,306 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:21:13,422 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:21:22,972 - Nopcommerce - INFO - ***** Searching customer by Name *****
+2025-09-28 01:21:27,949 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:21:30,049 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:21:30,049 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:21:31,024 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:21:31,904 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:21:35,267 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:21:35,383 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:21:40,627 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:21:40,656 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:21:42,661 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:21:42,665 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:21:43,123 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:21:44,582 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:21:47,651 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:21:47,665 - Nopcommerce - INFO - ***** Click on logout link *****
+2025-09-28 01:21:52,783 - Nopcommerce - INFO - ***** Login Failed *****
+2025-09-28 01:21:52,837 - Nopcommerce - INFO - ***** Closing Browser *****
+2025-09-28 01:21:54,832 - Nopcommerce - INFO -  ****** Launching Browser *****
+2025-09-28 01:21:54,844 - Nopcommerce - INFO - ***** Opening URL *****
+2025-09-28 01:21:55,572 - Nopcommerce - INFO - ***** Providing login details *****
+2025-09-28 01:21:56,715 - Nopcommerce - INFO - ***** Started Login *****
+2025-09-28 01:21:57,988 - Nopcommerce - INFO - ***** Login Passed *****
